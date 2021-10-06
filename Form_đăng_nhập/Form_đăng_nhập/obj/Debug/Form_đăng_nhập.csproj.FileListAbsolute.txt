@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\Form_đăng_nhập\Form_đăng_nhập\bin\Debug\Form_đăng_nhập.exe.config
+C:\Users\Lenovo\Desktop\Form_đăng_nhập\Form_đăng_nhập\bin\Debug\Form_đăng_nhập.exe
+C:\Users\Lenovo\Desktop\Form_đăng_nhập\Form_đăng_nhập\bin\Debug\Form_đăng_nhập.pdb
+C:\Users\Lenovo\Desktop\Form_đăng_nhập\Form_đăng_nhập\obj\Debug\Form_đăng_nhập.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Form_đăng_nhập\Form_đăng_nhập\obj\Debug\Form_đăng_nhập.Form1.resources
+C:\Users\Lenovo\Desktop\Form_đăng_nhập\Form_đăng_nhập\obj\Debug\Form_đăng_nhập.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Form_đăng_nhập\Form_đăng_nhập\obj\Debug\Form_đăng_nhập.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Form_đăng_nhập\Form_đăng_nhập\obj\Debug\Form_đăng_nhập.exe
+C:\Users\Lenovo\Desktop\Form_đăng_nhập\Form_đăng_nhập\obj\Debug\Form_đăng_nhập.pdb
